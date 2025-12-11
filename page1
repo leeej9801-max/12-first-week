@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="icon" href="../../images/logo.png"/>
+	<title>1211수업
+	</title>
+</head>
+<body>
+<h1>12/11 수업 자료</h1>
+<header>상단 머리말</head>
+<article>
+	<h1>html의 기본 정의</h1>
+	<p>html은 웹사이트의 기본적인 Space</p>
+	<p>개발자 교육</p>
+</article>
+<footer>끝말</footer>
+</body>
+</html>
